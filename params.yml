@@ -1,0 +1,12 @@
+# Output video name
+OUTPUT: output.png
+
+# User token
+TOKEN: XXX
+
+# Last index of segments
+LAST_SEGMENT: 100
+
+# Video and audion base URLs
+VIDEO_BASE_URL: https://www.exemple.com/channels/0123456789/VIDEO/9876543210/video/720p
+AUDIO_BASE_URL: https://www.exemple.com/channels/0123456789/VIDEO/9876543210/audio/159267348
